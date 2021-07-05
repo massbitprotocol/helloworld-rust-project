@@ -2,7 +2,7 @@
 
 ## Task description.
 
-You are going to write a less-constraint blockchain simulation. In the simulation there will be n nodes (n=5 in the demo) talking to each others using [libp2p](https://github.com/libp2p/rust-libp2p) and all nodes will be started with the same code you are supposed to write. In addition, each node will store pairs of (pokemon_name, pokemon) where pokemon_name is a string and pokemon is an object describing the features of the pokemons. An object can be expressed, for example, as following json object:
+You are going to write a less-constraint blockchain simulation. In the simulation there will be n nodes (n=5 in the demo) talking to each others using [libp2p](https://github.com/libp2p/rust-libp2p) and all nodes will be started with the same code you are going to write. In addition, each node will store pairs of (pokemon_name, pokemon) where pokemon_name is a string and pokemon is an object describing the features of the pokemons. An object can be expressed, for example, as following json object:
 
 ```
 {
