@@ -17,6 +17,8 @@ For simplicity, the node can store those objects in memory.
 
 For the node, you will be also implementing a service to receive a transaction (POST/GET) from end user where POST transaction is to create a new pokemen or update an existing one, and GET transaction with the given `name` is to return the json object of that pokemon `name`. You can use[ json_rpc](https://github.com/paritytech/jsonrpc) for this service.
 
+For your productivity, you can try to use handy-library to derive Serialize/Deserialize the json object.
+
 ## Delivery
 
 1. Github repo
