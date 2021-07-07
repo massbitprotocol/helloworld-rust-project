@@ -23,3 +23,12 @@ For your productivity, you can try to use handy-library to derive Serialize/Dese
 
 1. Github repo
 2. Instruction to run the demo will be written in the README.md file.
+
+## Reference to learn Rust
+
+1. [Rust Design Pattern](https://rust-unofficial.github.io/patterns/)
+2. [Cookin with Rust](https://rust-lang-nursery.github.io/rust-cookbook/)
+3. [Rust with Example](https://doc.rust-lang.org/rust-by-example/)
+4. [Rust The Book](https://doc.rust-lang.org/book/)
+5. [Rust Tokio](https://tokio.rs/)
+6. [Rust Rayon](https://github.com/rayon-rs/rayon) 
