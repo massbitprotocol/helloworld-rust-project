@@ -21,7 +21,7 @@ For your productivity, you can try to use handy-library to derive Serialize/Dese
 
 ## Demo
 
-You will run 5 different nodes in 5 different terminals. You will do send a POST/GET transaction to one of the nodes and the node will boradcast the transaction to other nodes which will print out the log of the transaction in its stdout.
+You will run 5 different nodes in 5 different terminals with different ports. You will do send a POST/GET transaction to one of the nodes and the node will boradcast the transaction to other nodes which will print out the log of the transaction in its stdout.
 
 # You will do query
 
